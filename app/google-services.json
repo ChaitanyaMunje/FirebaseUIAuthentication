@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "797557265404",
+    "firebase_url": "https://livecricket-4c4d5.firebaseio.com",
+    "project_id": "livecricket-4c4d5",
+    "storage_bucket": "livecricket-4c4d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797557265404:android:7808f9236c340e13",
+        "android_client_info": {
+          "package_name": "com.example.chaitanya.firebasemultipledata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797557265404-e4kce1epsk715r2sur9l8ge3ndi8lq6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaitanya.firebasemultipledata",
+            "certificate_hash": "e60b9e846ff2a48401fe2e6d7fb84d4fd5aab433"
+          }
+        },
+        {
+          "client_id": "797557265404-m8tn2ls7l6gamh9tus2l8spam0qrghjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ--mbm3iNIBc6aniGnzROrpc5t4Nn0I8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797557265404-m8tn2ls7l6gamh9tus2l8spam0qrghjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797557265404:android:c076486aad7b67ee",
+        "android_client_info": {
+          "package_name": "com.live.chaitanyamunje.livecricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797557265404-kkp6rmgtq9hj35mvsg02to9gh8lc0jm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.chaitanyamunje.livecricket",
+            "certificate_hash": "08cd0afd7e6c1ceece56b5f630c487b365b716d9"
+          }
+        },
+        {
+          "client_id": "797557265404-m8tn2ls7l6gamh9tus2l8spam0qrghjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ--mbm3iNIBc6aniGnzROrpc5t4Nn0I8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797557265404-m8tn2ls7l6gamh9tus2l8spam0qrghjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
