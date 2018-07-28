@@ -7,6 +7,23 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Main Activity"
+    android:layout_centerInParent="true"
+    android:textSize="25dp"
+    android:textStyle="bold"
+    android:fontFamily="casual"
+    android:id="@+id/text"
+    />
 
-
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/text"
+        android:text="Sign Out"
+        android:textSize="20dp"
+        android:onClick="signout"/>
 </RelativeLayout>
